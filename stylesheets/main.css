@@ -334,10 +334,17 @@ figure.effect-gcihover:hover figcaption::before {
 .issue {
     width: 100%;
     height: 80px;
+<<<<<<< HEAD
     padding: 18px;
     border-bottom: 1px solid #bbb;
     margin-bottom: 10px;
     background: #FFF;
+=======
+    padding:18px;
+    border-bottom: 1px solid #bbb;
+    margin-bottom: 10px;
+    background:#FFF;
+>>>>>>> fossasia/gh-pages
 }
 .issue:last-child {
     border-bottom: none;
@@ -364,22 +371,23 @@ figure.effect-gcihover:hover figcaption::before {
     margin-right: 5px;
 }
 .button {
-    background: #FFF;
-    text-align: center;
-    height: 40px;
-    width: 300px;
-    font-size: 20px;
-    color: #000;
-    text-decoration: none;
-    padding: 5px;
-    margin-bottom: 20px;
-    cursor: pointer;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 8px 0 rgba(0, 0, 0, 0.2);
+  background: #FFF;
+  text-align: center;
+  height: 40px;
+  width: 300px;
+  font-size: 20px;
+  color: #000;
+  text-decoration: none;
+  padding: 5px;
+  margin-bottom:20px;
+  cursor: pointer;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2),
+  0 6px 8px 0 rgba(0, 0, 0, 0.2);
 }
 .button a {
-    font-size: 20px;
-    color: #000;
-    text-decoration: none;
+  font-size: 20px;
+  color: #000;
+  text-decoration: none;
 }
 .github-widget {
     max-width: 370px !important;
